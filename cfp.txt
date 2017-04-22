@@ -3,6 +3,7 @@ ACM CCS 2017 Call for Papers
 
 24th ACM Conference on Computer and Communications Security
 30 October – 3 November 2017 - Dallas, Texas, USA
+https://ccs2017.sigsac.org
 
 The conference seeks submissions presenting novel research results in
 all aspects of computer and communications security and privacy,
