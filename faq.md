@@ -6,18 +6,18 @@ clear what they are to any submitter, as well as to reviewers.
 
 ## Conflicts of Interest
 
-_My paper describes some security flaws in products by BigCo, Inc. Should I mark PC members from BigCo as conflicts?_
+1. _My paper describes some security flaws in products by BigCo, Inc. Should I mark PC members from BigCo as conflicts?_
 
 > No. We believe this is not a conflict that would prevent an unbiased review, and as the PC Chairs, we will be aware of the issue in interpreting reviews.
 
 
 ## Anonymization
 
-_My paper is about work I presented at a non-paper conference (like Blackhat or DEFCON). Can I submit to CCS, and how should I reference the previous conference talk?_
+2. _My paper is about work I presented at a non-paper conference (like Blackhat or DEFCON). Can I submit to CCS, and how should I reference the previous conference talk?_
 
 > Yes, you are welcome to submit work that has not been previously published to CCS, and presenting at a conference without proceedings does not count as previous publication.  To avoid concerns about reviewers thinking the work is not original because of knowledge of the presentation, you should cite the presentation and make it clear in your text that it was your work. The reference should be anonymized to prevent accidental author disclosure. For example, the reference should be [#] Authors removed for anonymity. _[talk title]_, conference information.
 
-_I want to provide a supplemental website with code/data associated
+3. _I want to provide a supplemental website with code/data associated
 with my paper.  Is this allowed?_
 
 > Yes, you can include a URL in your paper that points to a site with
@@ -31,10 +31,9 @@ mind that reviewers are not expected to evaluate anything other than
 the (up to 12 pages) body of the paper.  The material posted on the
 site should either be anonymized, or if it is not possible to do that,
 there should be a warning next to the URL in the paper that the
-content linked is not anonymized.  The site containing your
-supplemental content may not do any tracking of IP addresses of
-visitors, and any attempts to use supplemental materials to identify
-reviewers will be dealt with as harshly as possible.
+content linked is not anonymized.  Any attempt to use supplemental
+materials to identify or harm reviewers is considered a serious breach
+of ethics and will be dealt with as harshly as possible.
 
 _My paper is about a system that reviewers may have heard about and will know is mine. Should I change the name of the system in the paper?_
 
