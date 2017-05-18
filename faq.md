@@ -4,6 +4,16 @@ This page collects answers to frequently asked questions about CCS
 2017 submissions.  Our intent is to make the answers public so it is
 clear what they are to any submitter, as well as to reviewers.
 
+## Extensions
+
+E1. _Can I have an extension?_
+
+> No.
+
+E2. _My fingers are broken from rescuing a suffering dog from a building that collapsed in a local earthquake, so I'm not able to finish my paper before the deadline. Can I please have an extension?_
+
+> Sorry, but no. We hope you recover soon and appreciate you saving the poodle, but for a conference like this, there is no fair way to grant extensions to anyone, no matter how dire your circumstances are or how deserving of one you might be. 
+
 ## Conflicts of Interest
 
 C1. _My paper describes some security flaws in products by BigCo, Inc. Should I mark PC members from BigCo as conflicts?_
